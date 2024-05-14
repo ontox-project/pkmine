@@ -1,10 +1,12 @@
+```mermaid
+
 graph TD
     A[In vitro Data] -->|Absorption| B1[Lungs]
     A -->|Absorption| B2[GI tract]
     A -->|Distribution| C1[Blood]
     A -->|Distribution| C2[Fat]
     A -->|Distribution| C3[Rapidly perfused tissue]
-```mermaid
+
 
     A -->|Distribution| C4[Slowly perfused tissue]
     A -->|Metabolism| D1[Liver]
