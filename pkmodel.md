@@ -1,3 +1,9 @@
+## A method description for slide 
+
+![imaging-conference](https://github.com/ontox-project/pkmine/assets/12751032/6f396739-4aba-4d28-9a14-a1444ac5033a)
+
+
+
 ```mermaid
 
 graph TD
