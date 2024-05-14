@@ -51,3 +51,5 @@ graph TD
     A --> Parameters
 
 ```
+## Manually curated version
+
