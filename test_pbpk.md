@@ -1,5 +1,4 @@
 ```mermaid
-
 graph TD
     A[Dose (800 mg)] --> B[Blood Compartment]
     B[Blood Compartment] -->|ka: Absorption Rate Constant| C[Body Compartment]
